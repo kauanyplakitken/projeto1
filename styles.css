@@ -9,10 +9,10 @@
 }
 
 
-body{
+.body{
 margin: 0;
 }
-body{
+.body{
 text-align: center;
 }
 .slide-controller:nth-child(1):checked ~ .slide-show .slides-list{--selected-item: 0;}
