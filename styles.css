@@ -1,4 +1,12 @@
+.borda{
 
+  border : 2px solid plum;
+  border-radius:5px;
+}
+
+.fundo{
+    background-color: RosyBrown;
+}
 
 
 body{
