@@ -48,3 +48,9 @@ grid-auto-flow: column;
 grid-auto-columns: 1fr;
 }
 
+.img{
+    width: 480;
+    height: 550;
+    text-align: center;
+  }
+
