@@ -29,7 +29,7 @@ body {
 
 .player-container {
     margin: 100px auto;
-    max-width: 400px;
+    max-width: 800px;
     background-color: rgba(0, 0, 0, 0.8);
     padding: 20px;
     border-radius: 10px;
