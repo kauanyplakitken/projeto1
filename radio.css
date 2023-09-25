@@ -68,7 +68,7 @@ audio {
 }
 
 button {
-    background-color: rgba(0, 128, 0, 0.7);
+    background-color: LightCyan;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -80,18 +80,18 @@ button {
 }
 
 button:hover {
-    background-color: rgba(0, 128, 0, 1);
+    background-color: LightCyan;
     box-shadow: 0px 0px 10px rgba(0, 128, 0, 0.7);
     color: white;
 }
 
 #play-pause-button {
-    background-color: orange;
+    background-color: PowderBlue;
     color: black;
 }
 
 #play-pause-button:hover {
-    background-color: darkorange;
+    background-color: PowderBlue;
 }
 
 .neon-glow {
