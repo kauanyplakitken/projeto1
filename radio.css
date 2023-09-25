@@ -28,7 +28,7 @@ body {
 }
 
 .player-container {
-    margin: 50px auto;
+    margin: 100px auto;
     max-width: 400px;
     background-color: rgba(0, 0, 0, 0.8);
     padding: 20px;
@@ -91,7 +91,7 @@ button:hover {
 }
 
 #play-pause-button:hover {
-    background-color: PowderBlue;
+    background-color: Thistle;
 }
 
 .neon-glow {
