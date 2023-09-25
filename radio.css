@@ -12,8 +12,8 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 800%;
-    height: 800%;
+    width: 400%;
+    height: 400%;
     pointer-events: none;
     animation: neonGlow 2s linear infinite alternate;
 }
