@@ -37,8 +37,7 @@ body {
     position: relative;
     overflow: hidden;
     backdrop-filter: blur(10px);
-    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=2rsdEfJa&id=054D6C7824DA368CC7AFEB5253B8B5FF3DA7E949&thid=OIP.2rsdEfJabLqluPT21wdBFgAAAA&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.multarte.com.br%2fwp-content%2fuploads%2f2018%2f01%2ftumblr_ofinemWKtB1thm3lmo1_500.png%3fresize%3d456%252C737%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dabb1d11f25a6cbaa5b8f4f6d7074116%3frik%3dSemnPf%252b1uFNS6w%26pid%3dImgRaw%26r%3d0&exph=737&expw=456&q=imagens+de+fundo+tumblr&simid=608021967860821617&FORM=IRPRST&ck=220C7E053D35C99D8210146C63C674B3&selectedIndex=60&ajaxhist=0&ajaxserp=0');
-}
+    background-image: url('imagem1.html')
 
 
 .audio-info {
