@@ -4,16 +4,16 @@ const prevButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
 
 const songs = [
-    'ballena.mp3',
-    'doja.mp3',
-    'i like.mp3',
-    'kay.mp3',
-    'kream.mp3',
-    'libianca.mp3.mp3',
-    'meca.mp3',
-    'novo.mp3',
-    'poesia.mp3',
-    'rush.mp3.mp3',
+    'musicas/ballena.mp3',
+    'musicas/doja.mp3',
+    'musicas/i like.mp3',
+    'musicas/kay.mp3',
+    'musicas/kream.mp3',
+    'musicas/libianca.mp3.mp3',
+    'musicas/meca.mp3',
+    'musicas/novo.mp3',
+    'musicas/poesia.mp3',
+    'musicas/rush.mp3.mp3',
 ];
 
 let currentSongIndex = 0;
