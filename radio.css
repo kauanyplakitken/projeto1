@@ -68,7 +68,7 @@ audio {
 }
 
 button {
-    background-color: LightCyan;
+    background-color: Thistle;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -80,7 +80,7 @@ button {
 }
 
 button:hover {
-    background-color: LightCyan;
+    background-color: Thistle;
     box-shadow: 0px 0px 10px rgba(0, 128, 0, 0.7);
     color: white;
 }
