@@ -37,6 +37,7 @@ body {
     position: relative;
     overflow: hidden;
     backdrop-filter: blur(10px);
+    background-image: url('');
 }
 
 
